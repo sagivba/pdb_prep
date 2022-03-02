@@ -1,2 +1,2 @@
 # pdb_prep
-This repository moved to [https://github.com/continuous-symmetry-measure/pdb_prep](https://github.com/continuous-symmetry-measure/pdb_prep)
+This repository moved to [https://continuous-symmetry-measure.github.io/pdb_prep](https://continuous-symmetry-measure.github.io/pdb_prep)
